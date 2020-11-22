@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jeffreydominic.github.io/sitemap.xml
